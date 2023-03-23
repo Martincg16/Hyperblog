@@ -35,3 +35,12 @@ margin: 0 auto;
 #container h1{
     font-size: 20px;
 }
+
+#footer{
+    background-color: gray;
+    margin: 0 auto;
+    font: 0.8em;
+    color: white;
+    font: bold;
+    
+}
